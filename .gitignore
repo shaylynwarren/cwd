@@ -1,1 +1,4 @@
-._*
+.*
+!.gitignore
+!.git
+unit-1-hello/start/._design.css
