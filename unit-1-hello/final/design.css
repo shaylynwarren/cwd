@@ -8,8 +8,10 @@ body {
 body {
   color: whitesmoke;
 }
- p { 
-  text-align: left;
-  vertical-align: left;
+ p style text-align: ;{ text-align: center;
+  vertical-align: center;
 }
- 
+image {
+  display: block;
+  margin: auto;
+}
